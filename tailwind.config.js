@@ -10,14 +10,15 @@ module.exports = {
     },
     extend: {
       colors: {
-        brightRed: 'hsl(12, 88%, 59%)',
-        brightRedLight: 'hsl(12, 88%, 69%)',
-        brightRedSupLight: 'hsl(12, 88%, 95%)',
-        darkBlue: 'hsl(228, 39%, 23%)',
-        darkGrayishBlue: 'hsl(227, 12%, 61%)',
-        veryDarkBlue: 'hsl(233, 12%, 13%)',
-        veryPaleRed: 'hsl(13, 100%, 96%)',
-        veryLightGray: 'hsl(0, 0%, 98%)',
+        darkBlue: "	hsl(231, 81%, 39%)",
+        mediumBlue: "hsl(220, 94%, 57%)",
+        cyanBlue: "hsl(188, 77%, 66%)",
+        white: "hsl(240, 100%, 100%)",
+        mediumRed: "hsl(345, 94%, 57%)",
+        mediumPurple: "hsl(240, 100%, 100%)",
+        mediumGrey: "hsl(240, 100%, 100%)",
+        darkGrey: "hsl(0, 0%, 64%)",
+
       },
     },
   },
